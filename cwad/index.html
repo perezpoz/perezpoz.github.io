@@ -74,6 +74,17 @@
 <!-- This post presents Wavebender GAN, a deep architecture for controllable, high-quality speech synthesis intended for speech-sciences research -->
 
 <h2 id="summary">Summary</h2>
+<p> The goal of this work is to develop a framework for whisper activity detection (WAD) and extraction of clean whisper unaffected by noises for whispered data collection.</p>
+
+<p> One of the main problems in the analysis of whispered speech is the limited amount of data available, and most specifically, spontaneous whispered speech.</p>
+
+<p> A great source of whispered speech data are ASMR recordings available in streaming platforms like YouTube or Twitch.</p>
+
+<p> We propose to train a WAD method on a synthetic noisy whispered dataset. The trained model is then used to detect whispered speech in ASMR recordings. Using <a href="https://github.com/perfall/Edyson">Edyson</a> to more accurately separate segments into "clean whisper" - "noisy whisper" - "noise".</p>
+
+<p> The separated ASMR data is used for speech data augmentation and the proposed clean WAD (CWAD) model is trained using the specific ASMR triggers as noise.</p>
+
+<p> ASMR data is used as an example of a great source of whispered speech available online. However, this framework could be adapted to other noisy whispered speech sources.</p>
 <!--
 <p>The goal of this work is to develop new speech technology to meet the needs of speech-sciences research. Specifically, our paper presents Wavebender GAN, a deep-learning architecture for manipulating phonetically-relevant speech parameters whilst remaining perceptually close to natural speech.</p>
 
