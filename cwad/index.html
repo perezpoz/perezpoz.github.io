@@ -40,28 +40,30 @@
 
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">CWAD</h1>
-        <p class="header">Clean whisper extraction in ASMR recordings</p>
+    <div style="text-align: center;max-width: 250px;">
+      <div style="display: inline-block; text-align: left;">
+        <div class="wrapper">
+          <header>
+            <h1 class="header">CWAD</h1>
+            <p class="header">Clean whisper extraction in ASMR recordings</p>
+            <ul>
+              
+              <li><a class="buttons github" href="https://github.com/perezpoz/CleanWhisperDetection">View On GitHub</a></li>
+            </ul>
 
-        <ul>
-          
-          <li><a class="buttons github" href="https://github.com/perezpoz/CleanWhisperDetection">View On GitHub</a></li>
-        </ul>
+            
+            <p class="header">This project is maintained by <a class="header name" href="https://github.com/perezpoz">Pablo Pérez Zarazaga</a></p>
+            
 
-        
-          <p class="header">This project is maintained by <a class="header name" href="https://github.com/perezpoz">Pablo Pérez Zarazaga</a></p>
-        
+            
+          </header>
 
-        
-      </header>
-
-      <section>
-        <h1 id="CWAD">CWAD</h1>
-<p>A framework for clean whisper speech extraction</p>
-<h5 id="pablo-perez-zarazaga-gustav-eje-henter-zofia-malisz"><a href="https://www.kth.se/profile/pablopz/">Pablo Pérez Zarazaga</a>, <a href="https://www.kth.se/profile/malisz">Zofia Malisz</a>, <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a></h5>
-
+          <section>
+            <h1 id="CWAD">CWAD</h1>
+        <p>A framework for clean whisper speech extraction</p>
+        <h5 id="pablo-perez-zarazaga-gustav-eje-henter-zofia-malisz"><a href="https://www.kth.se/profile/pablopz/">Pablo Pérez Zarazaga</a>, <a href="https://www.kth.se/profile/malisz">Zofia Malisz</a>, <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a></h5>
+      </div>
+    </dif>
 <head> 
 <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
 <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png" />
@@ -72,19 +74,22 @@
 <meta name="theme-color" content="#ffffff" />
 </head>
 <!-- This post presents Wavebender GAN, a deep architecture for controllable, high-quality speech synthesis intended for speech-sciences research -->
+<div style="text-align: center;max-width: 500px;">
+  <div style="display: inline-block; text-align: left;">
+    <h2 id="summary">Summary</h2>
+    <p> The goal of this work is to develop a framework for whisper activity detection (WAD) and extraction of clean whisper unaffected by noises for whispered data collection.</p>
 
-<h2 id="summary">Summary</h2>
-<p> The goal of this work is to develop a framework for whisper activity detection (WAD) and extraction of clean whisper unaffected by noises for whispered data collection.</p>
+    <p>One of the main problems in the analysis of whispered speech is the limited amount of data available, and most specifically, spontaneous whispered speech.</p>
 
-<p> One of the main problems in the analysis of whispered speech is the limited amount of data available, and most specifically, spontaneous whispered speech.</p>
+    <p> A great source of whispered speech data are ASMR recordings available in streaming platforms like YouTube or Twitch.</p>
 
-<p> A great source of whispered speech data are ASMR recordings available in streaming platforms like YouTube or Twitch.</p>
+    <p> We propose to train a WAD method on a synthetic noisy whispered dataset. The trained model is then used to detect whispered speech in ASMR recordings. Using <a href="https://github.com/perfall/Edyson">Edyson</a> to more accurately separate segments into "clean whisper" - "noisy whisper" - "noise".</p>
 
-<p> We propose to train a WAD method on a synthetic noisy whispered dataset. The trained model is then used to detect whispered speech in ASMR recordings. Using <a href="https://github.com/perfall/Edyson">Edyson</a> to more accurately separate segments into "clean whisper" - "noisy whisper" - "noise".</p>
+    <p> The separated ASMR data is used for speech data augmentation and the proposed clean WAD (CWAD) model is trained using the specific ASMR triggers as noise.</p>
 
-<p> The separated ASMR data is used for speech data augmentation and the proposed clean WAD (CWAD) model is trained using the specific ASMR triggers as noise.</p>
-
-<p> ASMR data is used as an example of a great source of whispered speech available online. However, this framework could be adapted to other noisy whispered speech sources.</p>
+    <p> ASMR data is used as an example of a great source of whispered speech available online. However, this framework could be adapted to other noisy whispered speech sources.</p>
+  </div>
+</dif>
 <!--
 <p>The goal of this work is to develop new speech technology to meet the needs of speech-sciences research. Specifically, our paper presents Wavebender GAN, a deep-learning architecture for manipulating phonetically-relevant speech parameters whilst remaining perceptually close to natural speech.</p>
 
@@ -92,14 +97,20 @@
 
 <p>For more information, please see <a href="https://arxiv.org/abs/2202.10973">our paper at ICASSP 2022</a>.</p>
 -->
-<h2 id="visual-overview">Visual overview</h2>
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: left;">
+    <h2 id="visual-overview">Visual overview</h2>
 
-<p><img src="./Figures/Pipeline.png" alt="CWAD framework" title="Structure of the CWAD framework" width=40%/></p>
+    <p><img src="./Figures/Pipeline.png" alt="CWAD framework" title="Structure of the CWAD framework" width=40%/></p>    
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: left;">
+    <h2 id="code">Code</h2>
 
-<h2 id="code">Code</h2>
-
-<p>Code and pre-trained models will be made available in <a href="https://github.com/perezpoz/CleanWhisperDetection">our GitHub repository</a> shortly.</p>
-
+    <p>Code and pre-trained models will be made available in <a href="https://github.com/perezpoz/CleanWhisperDetection">our GitHub repository</a> shortly.</p>
+  </div>
+</div>
 <style type="text/css">
   .tg {
     border-collapse: collapse;
@@ -181,18 +192,20 @@
   cursor: pointer;
 }
 </style>
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: left;">
+    <h2 id="copy-synthesis">Whisper activity detection</h2>
 
-<h2 id="copy-synthesis">Whisper activity detection</h2>
-
-<p>The following audio samples show the classification of ASMR samples by the CWAD method into clean whispered speech and speech affected by ASMR triggers or noise.</p>
-
+    <p>The following audio samples show the classification of ASMR samples by the CWAD method into clean whispered speech and speech affected by ASMR triggers or noise.</p>
+  </div>
+</div>
 <table class="tg">
   <thead>
     <tr>
       <th class="tg-0pky">Speaker</th>
       <th class="tg-0pky" colspan="1">Original ASMR sample</th>
-      <th class="tg-0pky" colspan="1">CWAD Clean Speech</th>
-      <th class="tg-0pky" colspan="1">CWAD Noisy Speech</th>
+      <th class="tg-0pky" colspan="1">CWAD Clean Whispered Segments</th>
+      <th class="tg-0pky" colspan="1">CWAD Noisy Whispered Segments</th>
     </tr>
   </thead>
   <tbody>
@@ -236,6 +249,58 @@
       </td>
     </tr>
   </tbody>
+</table>
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky">Speaker</th>
+      <th class="tg-0pky" colspan="1">Original ASMR sample</th>
+      <th class="tg-0pky" colspan="1">CWAD Clean Whispered Segments</th>
+      <th class="tg-0pky" colspan="1">CWAD Noisy Whispered Segments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap="" class="tg-0pky"><b>Male</b></td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/Male2_Full.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/Male2_Speech.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/Male2_Noise.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <tr>
+      <td nowrap="" class="tg-0pky"><b>Female</b></td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/Female2_Full.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/Female2_Speech.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/Female2_Noise.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
   <!--
   <tbody>
     <tr>
@@ -278,7 +343,7 @@
       </td>
     </tr>
   </tbody>-->
-</table>
+
 <!--
 <h2 id="speech-manipulation">Speech manipulation</h2>
 
