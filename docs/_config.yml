@@ -36,9 +36,10 @@ email: pablopz@kth.se
 github_username:  pablopz
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
