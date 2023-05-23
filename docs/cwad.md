@@ -1,5 +1,5 @@
-# CWAD
-A processing framework to access large quantities of whispered speech found in ASMR
+# A processing framework to access large quantities of whispered speech found in ASMR
+
 ##### [Pablo Pérez Zarazaga][pablo_profile], [Gustav Eje Henter][gustav_profile], [Zofia Malisz][zofia_profile]
 
 <head> 
@@ -20,6 +20,17 @@ A processing framework to access large quantities of whispered speech found in A
 [paper_link]: https://arxiv.org/abs/2303.07442
 [youtubedl_link]: https://github.com/ytdl-org/youtube-dl
 [edyson_link]: https://github.com/perfall/Edyson
+
+## Citation information
+
+```
+@inproceedings{perez2023cwad,
+   title={A processing framework to access large quantities of whispered speech found in ASMR},
+   author={Pablo Pérez Zarazaga and Gustav Eje Henter and Zofia Malisz},
+   booktitle={Proc. ICASSP},
+   year={2023}
+ }
+```
 
 ## Summary
 
@@ -289,16 +300,5 @@ Finally, we can observe a set of different mouth sounds produced by the "ASMRtis
     </tr>
   </tbody>
 </table>
-
-## Citation information
-
-```
-@inproceedings{perez2023cwad,
-   title={A processing framework to access large quantities of whispered speech found in ASMR},
-   author={Pablo Pérez Zarazaga and Gustav Eje Henter and Zofia Malisz},
-   booktitle={Proc. ICASSP},
-   year={2023}
- }
-```
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fperezpoz.github.io%2Fcwad%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
