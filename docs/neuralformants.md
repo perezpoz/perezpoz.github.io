@@ -457,7 +457,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
     <tr>
       <th class="tg-0pky">Scale F0</th>
       <th class="tg-0pky" colspan="1">0.7</th>
-      <th class="tg-0pky" colspan="1">0.8/th>
+      <th class="tg-0pky" colspan="1">0.8</th>
       <th class="tg-0pky" colspan="1">0.9</th>
       <th class="tg-0pky" colspan="1">1.1</th>
       <th class="tg-0pky" colspan="1">1.2</th>
@@ -611,7 +611,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
     <tr>
       <th class="tg-0pky">Scale F1</th>
       <th class="tg-0pky" colspan="1">0.7</th>
-      <th class="tg-0pky" colspan="1">0.8/th>
+      <th class="tg-0pky" colspan="1">0.8</th>
       <th class="tg-0pky" colspan="1">0.9</th>
       <th class="tg-0pky" colspan="1">1.1</th>
       <th class="tg-0pky" colspan="1">1.2</th>
@@ -765,7 +765,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
     <tr>
       <th class="tg-0pky">Scale F2</th>
       <th class="tg-0pky" colspan="1">0.7</th>
-      <th class="tg-0pky" colspan="1">0.8/th>
+      <th class="tg-0pky" colspan="1">0.8</th>
       <th class="tg-0pky" colspan="1">0.9</th>
       <th class="tg-0pky" colspan="1">1.1</th>
       <th class="tg-0pky" colspan="1">1.2</th>
@@ -919,7 +919,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
     <tr>
       <th class="tg-0pky">Scale F3</th>
       <th class="tg-0pky" colspan="1">0.7</th>
-      <th class="tg-0pky" colspan="1">0.8/th>
+      <th class="tg-0pky" colspan="1">0.8</th>
       <th class="tg-0pky" colspan="1">0.9</th>
       <th class="tg-0pky" colspan="1">1.1</th>
       <th class="tg-0pky" colspan="1">1.2</th>
@@ -1073,7 +1073,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
     <tr>
       <th class="tg-0pky">Scale F4</th>
       <th class="tg-0pky" colspan="1">0.7</th>
-      <th class="tg-0pky" colspan="1">0.8/th>
+      <th class="tg-0pky" colspan="1">0.8</th>
       <th class="tg-0pky" colspan="1">0.9</th>
       <th class="tg-0pky" colspan="1">1.1</th>
       <th class="tg-0pky" colspan="1">1.2</th>
