@@ -236,33 +236,32 @@ The following audio samples have been synthesised with the different systems des
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>Sample 4</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p266_006_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p266_006_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p266_006_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p266_006_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p266_006_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -272,27 +271,27 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 5</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p277_071_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p277_071_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p277_071_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p277_071_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p277_071_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p277_071_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p277_071_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p277_071_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p277_071_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p277_071_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -302,27 +301,27 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 6</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p280_019_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p280_019_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p280_019_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p280_019_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p280_019_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p280_019_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p280_019_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p280_019_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p280_019_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p280_019_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -332,27 +331,27 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 7</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p282_015_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p282_015_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p282_015_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p282_015_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p282_015_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p282_015_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p282_015_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p282_015_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p282_015_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p282_015_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -362,27 +361,27 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 8</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p285_005_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p285_005_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p285_005_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p285_005_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p285_005_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p285_005_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p285_005_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p285_005_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p285_005_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p285_005_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -392,27 +391,27 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 9</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p304_003_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p304_003_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p304_003_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p304_003_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p304_003_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p304_003_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p304_003_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p304_003_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p304_003_NFWaveNet.wav" type="audio/wav" preload=none/>
+          <source src="./Samples/NeuralFormants/CS/p304_003_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -422,32 +421,31 @@ The following audio samples have been synthesised with the different systems des
       <td nowrap="" class="tg-0pky"><b>Sample 10</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p333_022_Orig.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p333_022_Orig.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p333_022_HiFi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p333_022_HiFi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p333_022_NFHifi.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p333_022_NFHifi.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p333_022_WaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p333_022_WaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p333_022_NFWaveNet.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/CS/p333_022_NFWaveNet.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 In the manipulation task, we apply a constant scaling to a specific speech parameter over a whole synthesised utterance.
@@ -501,43 +499,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
@@ -573,43 +569,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 <table class="tg">
@@ -659,43 +653,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
@@ -731,43 +723,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 <table class="tg">
@@ -817,43 +807,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
@@ -889,43 +877,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 <table class="tg">
@@ -975,43 +961,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
@@ -1047,43 +1031,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 <table class="tg">
@@ -1133,43 +1115,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
@@ -1205,43 +1185,41 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
-  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.7/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.7/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.8/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.8/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.9/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.9/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.1/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.1/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.2/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.2/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.3/p282_006_mic1_80mel.wav" type="audio/wav" />
+          <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_1.3/p282_006_mic1_80mel.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
   </tbody>
-  -->
 </table>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fperezpoz.github.io%2Fneuralformants&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
