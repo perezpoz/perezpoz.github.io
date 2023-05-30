@@ -22,9 +22,10 @@ title: CWAD
 description: A processing framework to access large quantities of whispered speech found in ASMR
 show_downloads: False
 logo: ./images/Pipeline.png
-domain: perezpoz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://perezpoz.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: github.com/perezpoz       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://github.com/perezpoz # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /cwad    # place folder name if the site is served in a subfolder
+#permalink: /cwad
 email: pablopz@kth.se
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -37,10 +38,11 @@ github_username:  perezpoz
 
 # Build settings
 #theme: minima
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default.
