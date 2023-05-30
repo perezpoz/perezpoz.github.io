@@ -236,17 +236,18 @@ The following audio samples have been synthesised with the different systems des
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>Sample 4</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_Orig.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/NeuralFormants/CS/p266_006_Orig.wav" type="audio/wav" />
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/NeuralFormants/CS/p266_006_HiFi.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/NeuralFormants/CS/p266_006_HiFi.wav" type="audio/wav" />
         </audio>
       </td>
       <td class="tg-0pky">
@@ -446,6 +447,7 @@ The following audio samples have been synthesised with the different systems des
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 In the manipulation task, we apply a constant scaling to a specific speech parameter over a whole synthesised utterance.
@@ -466,7 +468,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
   </thead>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F0_0.7/p260_021_mic1_80mel.wav" type="audio/wav" preload="none"/>
@@ -499,6 +501,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
@@ -534,9 +537,10 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>PRAAT</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/Praat/F0_0.7/p260_021_mic1_mod.wav" type="audio/wav" preload="none"/>
@@ -569,6 +573,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
@@ -604,6 +609,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 <table class="tg">
@@ -620,7 +626,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
   </thead>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F1_0.7/p260_021_mic1_80mel.wav" type="audio/wav" preload="none"/>
@@ -653,6 +659,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
@@ -688,9 +695,10 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>PRAAT</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/Praat/F1_0.7/p260_021_mic1_mod.wav" type="audio/wav" preload="none"/>
@@ -723,6 +731,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
@@ -758,6 +767,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 <table class="tg">
@@ -774,7 +784,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
   </thead>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F2_0.7/p260_021_mic1_80mel.wav" type="audio/wav" preload="none"/>
@@ -807,6 +817,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
@@ -842,9 +853,10 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>PRAAT</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/Praat/F2_0.7/p260_021_mic1_mod.wav" type="audio/wav" preload="none"/>
@@ -877,6 +889,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
@@ -912,6 +925,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 <table class="tg">
@@ -928,7 +942,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
   </thead>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F3_0.7/p260_021_mic1_80mel.wav" type="audio/wav" preload="none"/>
@@ -961,6 +975,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
@@ -996,9 +1011,10 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>PRAAT</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/Praat/F3_0.7/p260_021_mic1_mod.wav" type="audio/wav" preload="none"/>
@@ -1031,6 +1047,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
@@ -1066,6 +1083,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 <table class="tg">
@@ -1082,7 +1100,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
   </thead>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/NF_HifiGAN/F4_0.7/p260_021_mic1_80mel.wav" type="audio/wav" preload="none"/>
@@ -1115,6 +1133,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN 2</b></td>
@@ -1150,9 +1169,10 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>PRAAT 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>PRAAT</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/NeuralFormants/Manipulation/Praat/F4_0.7/p260_021_mic1_mod.wav" type="audio/wav" preload="none"/>
@@ -1185,6 +1205,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  <!--
   <tbody>
     <tr>
       <td nowrap="" class="tg-0pky"><b>PRAAT 2</b></td>
@@ -1220,6 +1241,7 @@ In the following audio samples, we have manipulated the fundamental frequency F0
       </td>
     </tr>
   </tbody>
+  -->
 </table>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fperezpoz.github.io%2Fneuralformants&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
