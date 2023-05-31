@@ -29,7 +29,7 @@
 @inproceedings{perez2023neuralformant,
    title={Speaker-independent neural formant synthesis},
    author={Pablo Pérez Zarazaga and Zofia Malisz and Gustav Eje Henter and Lauri Juvela},
-   booktitle={Proc. ICASSP},
+   booktitle={Proc. INTERSPEECH},
    year={2023}
  }
 ```
