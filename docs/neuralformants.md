@@ -1,3 +1,8 @@
+---
+title: Neural Formants
+description: Framework for controllable speech synthesis using phonetically meaningful features.
+permalink: /neuralformants
+---
 # Speaker-independent neural formant synthesis
 
 ##### [Pablo Pérez Zarazaga][pablo_profile], [Zofia Malisz][zofia_profile], [Gustav Eje Henter][gustav_profile], [Lauri Juvela][lauri_profile]
