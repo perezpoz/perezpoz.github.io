@@ -1,8 +1,0 @@
-title: CWAD
-theme: jekyll-theme-dinky
-description: A processing framework to access large quantities of whispered speech found in ASMR
-show_downloads: False
-logo: ./images/Pipeline.png
-domain: perezpoz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://perezpoz.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /perezpoz.github.io/cwad      # place folder name if the site is served in a subfolder
