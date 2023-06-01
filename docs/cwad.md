@@ -1,3 +1,8 @@
+---
+title: A processing framework to access large quantities of whispered speech found in ASMR
+description: Extracting clean whispered speech from noisy samples based on whisper activity detection
+permalink: /cwad
+---
 # A processing framework to access large quantities of whispered speech found in ASMR
 
 ##### [Pablo Pérez Zarazaga][pablo_profile], [Gustav Eje Henter][gustav_profile], [Zofia Malisz][zofia_profile]
@@ -156,17 +161,17 @@ In the first set of recordings we observe relatively clean whispered speech with
       <td nowrap="" class="tg-0pky"><b>Male</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Male1_Full.wav" type="audio/wav" />
+          <source src="./Samples/Male1_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male1_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Male1_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male1_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Male1_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -176,17 +181,17 @@ In the first set of recordings we observe relatively clean whispered speech with
       <td nowrap="" class="tg-0pky"><b>Female</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Female3_Full.wav" type="audio/wav" />
+          <source src="./Samples/Female3_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female3_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Female3_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female3_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Female3_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -209,17 +214,17 @@ In the second set of samples, we can see a different type of whispered speech us
       <td nowrap="" class="tg-0pky"><b>Male</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Male2_Full.wav" type="audio/wav" />
+          <source src="./Samples/Male2_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male2_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Male2_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male2_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Male2_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -230,17 +235,17 @@ In the second set of samples, we can see a different type of whispered speech us
       <td nowrap="" class="tg-0pky"><b>Female</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Female2_Full.wav" type="audio/wav" />
+          <source src="./Samples/Female2_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female2_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Female2_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female2_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Female2_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -263,17 +268,17 @@ Finally, we can observe a set of different mouth sounds produced by the "ASMRtis
       <td nowrap="" class="tg-0pky"><b>Male</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Male3_Full.wav" type="audio/wav" />
+          <source src="./Samples/Male3_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male3_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Male3_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Male3_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Male3_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -284,17 +289,17 @@ Finally, we can observe a set of different mouth sounds produced by the "ASMRtis
       <td nowrap="" class="tg-0pky"><b>Female</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/Female1_Full.wav" type="audio/wav" />
+          <source src="./Samples/Female1_Full.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female1_Speech.wav" type="audio/wav" />
+          <source src="./Samples/Female1_Speech.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio controls="">
-          <source src="./Samples/Female1_Noise.wav" type="audio/wav" />
+          <source src="./Samples/Female1_Noise.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>

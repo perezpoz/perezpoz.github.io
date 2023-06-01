@@ -1,6 +1,6 @@
 ---
 title: Neural Formants
-description: Framework for controllable speech synthesis using phonetically meaningful features.
+description: Framework for controllable speech synthesis using phonetically meaningful speech parameters.
 permalink: /neuralformants
 ---
 # Speaker-independent neural formant synthesis
@@ -43,9 +43,11 @@ permalink: /neuralformants
 
 The goal of this work is to develop a speaker-independent speech synthesis system driven by a small set of phonetically meaningful speech parameters.
 
-The system provides a controllable environment where it is possible to manipulate the different individual speech parameters to generate 
+The system provides a controllable environment where it is possible to manipulate the different individual speech parameters to generate a realistic speech signal.
 
 ## Visual overview
+
+We propose to use a WaveNet-like model using dilated convolutions to transform a set of phonetically meaningful parameters (log F0, F1-4, spectral tilt, spectral centroid and signal energy) combined with a voicing flag into a mel-spectrogram. The mel-spectrogram can then be used by a pre-trained vocoder to generate the output speech signal.
 
 ![Neural formant pipeline](./images/NF_Pipeline.png "Neural formant pipeline.")
 
