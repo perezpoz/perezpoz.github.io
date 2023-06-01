@@ -1,3 +1,9 @@
+---
+title: A processing framework to access large quantities of whispered speech found in ASMR
+description: Extracting clean whispered speech from noisy samples based on whisper activity detection
+permalink: /cwad
+baseurl: /cwad
+---
 # A processing framework to access large quantities of whispered speech found in ASMR
 
 ##### [Pablo Pérez Zarazaga][pablo_profile], [Gustav Eje Henter][gustav_profile], [Zofia Malisz][zofia_profile]
