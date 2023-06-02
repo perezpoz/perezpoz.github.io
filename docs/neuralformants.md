@@ -18,13 +18,18 @@ permalink: /neuralformants
 </head>
 <!-- This post presents CWAD, a deep-learning framework to automatically label large amounts of clean whispered speech, applied to ASMR recordings extracted from YouTube -->
 
-[NF_link]: https://github.com/perezpoz/NeuralFormants
+<!--[NF_link]: https://github.com/perezpoz/NeuralFormants
 [WN_link]: https://github.com/ljuvela/GlotNet
+[paper_link]: https://arxiv.org/abs/2303.07442
+-->
+[NF_link]: https://perezpoz.github.io/404
+[WN_link]: https://perezpoz.github.io/404
+[paper_link]: https://perezpoz.github.io/404
 [gustav_profile]: https://people.kth.se/~ghe/
 [pablo_profile]: https://www.kth.se/profile/pablopz
 [zofia_profile]: https://www.kth.se/profile/malisz
 [lauri_profile]: https://research.aalto.fi/en/persons/lauri-juvela
-[paper_link]: https://arxiv.org/abs/2303.07442
+
 [hifi_link]: https://github.com/jik876/hifi-gan
 
 
