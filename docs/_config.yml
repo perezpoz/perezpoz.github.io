@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CWAD
-description: A processing framework to access large quantities of whispered speech found in ASMR
+title: Pablo's GitHub Pages
+#description: A processing framework to access large quantities of whispered speech found in ASMR
 show_downloads: False
 logo: ./images/Pipeline.png
 domain: perezpoz.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
