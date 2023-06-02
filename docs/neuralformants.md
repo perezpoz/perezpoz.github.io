@@ -145,7 +145,9 @@ WaveNet code can be found in [this GitHub repository][WN_link].
 
 ## Synthesised speech
 
-The following audio samples have been synthesised with the different systems described in [our paper][paper_link]
+The following audio samples have been synthesised with the different systems described in [our paper][paper_link].
+
+The first set of samples have been generated for the copy synthesis MUSHRA-like listening test described in the paper. We can observe the effect of the proposed method combining the neural formant (NF) network with different vocoders (Hifi-GAN and WaveNet). The proposed method does not degrade the quality of the speech signal compared to each corresponding vocoder on its own.
 
 <table class="tg">
   <thead>
