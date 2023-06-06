@@ -24,7 +24,7 @@ permalink: /neuralformants
 -->
 [NF_link]: https://perezpoz.github.io/404
 [WN_link]: https://perezpoz.github.io/404
-[paper_link]: https://perezpoz.github.io/404
+[paper_link]: http://arxiv.org/abs/2306.01957
 [gustav_profile]: https://people.kth.se/~ghe/
 [pablo_profile]: https://www.kth.se/profile/pablopz
 [zofia_profile]: https://www.kth.se/profile/malisz
