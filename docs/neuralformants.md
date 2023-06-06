@@ -58,8 +58,7 @@ We propose to use a WaveNet-like model using dilated convolutions to transform a
 
 ## Code
 
-Neural formant network code and pre-trained models will be made available in [this GitHub repository][NF_link] shortly.
-WaveNet code can be found in [this GitHub repository][WN_link].
+Neural formant network code and pre-trained models will be made available shortly in our GitHub repositories.
 
 <style type="text/css">
   .tg {
