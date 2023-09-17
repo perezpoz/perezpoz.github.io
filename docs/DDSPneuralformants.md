@@ -42,4 +42,4 @@ The system provides a controllable environment where it is possible to manipulat
 
 ## Visual overview
 
-![Neural formant pipeline follwing the source-filter model architectrue](./images/NeuralFormants_Diagram.png "Neural formant pipeline follwing the source-filter model architectrue.")
+![Neural formant pipeline follwing the source-filter model architectrue](./images/NeuralFormants_Diagram.pdf "Neural formant pipeline follwing the source-filter model architectrue.")
