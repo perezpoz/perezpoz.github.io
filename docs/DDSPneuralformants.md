@@ -16,7 +16,6 @@ permalink: /DDSPneuralformants
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 </head>
-<!-- This post presents CWAD, a deep-learning framework to automatically label large amounts of clean whispered speech, applied to ASMR recordings extracted from YouTube -->
 
 <!--[NF_link]: https://github.com/perezpoz/NeuralFormants
 [WN_link]: https://github.com/ljuvela/GlotNet
@@ -31,3 +30,16 @@ permalink: /DDSPneuralformants
 [lauri_profile]: https://research.aalto.fi/en/persons/lauri-juvela
 
 [hifi_link]: https://github.com/jik876/hifi-gan
+[GN_link]: https://github.com/ljuvela/GlotNet
+
+## Summary
+
+The goal of this work is to develop a speaker-independent speech synthesis system driven by a small set of phonetically meaningful speech parameters.
+
+The system is built with a similar structure to the source-filter model, allowing us to independently inspect and manipulate the spectral envelope and glottal excitation.
+
+The system provides a controllable environment where it is possible to manipulate the different individual speech parameters to generate a realistic speech signal.
+
+## Visual overview
+
+![Neural formant pipeline follwing the source-filter model architectrue](./images/NeuralFormants_Diagram.png "Neural formant pipeline follwing the source-filter model architectrue.")
