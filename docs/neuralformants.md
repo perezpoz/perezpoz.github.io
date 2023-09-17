@@ -36,12 +36,14 @@ permalink: /neuralformants
 ## Citation information
 
 ```
-@inproceedings{perez2023neuralformant,
-   title={Speaker-independent neural formant synthesis},
-   author={Pablo Pérez Zarazaga and Zofia Malisz and Gustav Eje Henter and Lauri Juvela},
-   booktitle={Proc. INTERSPEECH},
-   year={2023}
- }
+@inproceedings{perez2023speaker,
+  author={Pablo {Pérez Zarazaga} and Zofia Malisz and Gustav Eje Henter and Lauri Juvela},
+  title={{Speaker-independent neural formant synthesis}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={5556--5560},
+  doi={10.21437/Interspeech.2023-1622}
+}
 ```
 
 ## Summary
