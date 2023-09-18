@@ -172,7 +172,7 @@ We first present some samples generated as copy synthesis with the proposed meth
   </tbody>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>Sample 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
@@ -197,7 +197,7 @@ We first present some samples generated as copy synthesis with the proposed meth
   </tbody>
   <tbody>
     <tr>
-      <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
+      <td nowrap="" class="tg-0pky"><b>Sample 3</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
           <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
