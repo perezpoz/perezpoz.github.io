@@ -31,6 +31,7 @@ permalink: /DDSPneuralformants
 
 [hifi_link]: https://github.com/jik876/hifi-gan
 [GN_link]: https://github.com/ljuvela/GlotNet
+[NF_paper]: https://arxiv.org/abs/2303.07442
 
 ## Summary
 
@@ -43,3 +44,180 @@ The system provides a controllable environment where it is possible to manipulat
 ## Visual overview
 
 ![Neural formant pipeline follwing the source-filter model architectrue](./images/DDSPNF_Diagram.png "Neural formant pipeline follwing the source-filter model architectrue.")
+
+## Code
+
+Neural formant network code and pre-trained models will be made available shortly in our GitHub repositories.
+
+<style type="text/css">
+  .tg {
+    border-collapse: collapse;
+    border-color: #9ABAD9;
+    border-spacing: 0;
+  }
+
+  .tg td {
+    background-color: #EBF5FF;
+    border-color: #9ABAD9;
+    border-style: solid;
+    border-width: 1px;
+    color: #444;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 0px 20px;
+    word-break: normal;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+
+  .tg th {
+    background-color: #409cff;
+    border-color: #9ABAD9;
+    border-style: solid;
+    border-width: 1px;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 0px 20px;
+    word-break: normal;
+    font-weight: bold;
+    vertical-align: middle;
+
+  }
+
+  .tg .tg-0pky {
+    border-color: inherit;
+    text-align: center;
+    vertical-align: top,
+  }
+
+  .tg .tg-fymr {
+    border-color: inherit;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+  }
+  .slider {
+  -webkit-appearance: none;
+  width: 75%;
+  height: 15px;
+  border-radius: 5px;  
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #409cff;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #409cff;
+  cursor: pointer;
+}
+</style>
+
+## Synthesised speech
+
+We first present some samples generated as copy synthesis with the proposed method compared to [previous iterations of the model][NF_paper] (using only feature-mapping to mel-spectrogram and synthesis with a pre-trained HiFi-GAN) and Praat.
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky">System</th>
+      <th class="tg-0pky" colspan="1">Reference</th>
+      <th class="tg-0pky" colspan="1">NF + HiFi-GAN</th>
+      <th class="tg-0pky" colspan="1">Praat</th>
+      <th class="tg-0pky" colspan="1">Proposed method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio controls="">
+          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
