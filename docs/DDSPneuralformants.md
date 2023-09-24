@@ -242,37 +242,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -280,37 +280,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Proposed method</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -318,37 +318,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Praat</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_0.7_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_0.8_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_0.9_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.1_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.2_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.3_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -373,37 +373,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -411,37 +411,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Proposed method</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -449,37 +449,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Praat</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_0.7_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_0.8_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_0.9_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.1_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.2_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.3_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -504,37 +504,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -542,37 +542,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Proposed method</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -580,37 +580,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Praat</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_0.7_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_0.8_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_0.9_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.1_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.2_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.3_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -635,37 +635,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>NF HiFi-GAN</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_NF_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -673,37 +673,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Proposed method</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
@@ -711,37 +711,37 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
       <td nowrap="" class="tg-0pky"><b>Praat</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.7.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.8.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_0.9.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.1.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.2.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
+          <source src="./Samples/DDSPNF_manipulation/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.3.wav" type="audio/wav" preload="none"/>
         </audio>
       </td>
     </tr>
