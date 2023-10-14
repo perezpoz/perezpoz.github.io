@@ -21,8 +21,7 @@ permalink: /DDSPneuralformants
 [WN_link]: https://github.com/ljuvela/GlotNet
 [paper_link]: https://arxiv.org/abs/2303.07442
 -->
-[NF_link]: https://perezpoz.github.io/404
-[WN_link]: https://perezpoz.github.io/404
+[NF_link]: https://github.com/ljuvela/SourceFilterNeuralFormants
 [paper_link]: http://arxiv.org/abs/2306.01957
 [gustav_profile]: https://people.kth.se/~ghe/
 [pablo_profile]: https://www.kth.se/profile/pablopz
@@ -47,7 +46,7 @@ The system provides a controllable environment where it is possible to manipulat
 
 ## Code
 
-Neural formant network code and pre-trained models will be made available shortly in our GitHub repositories.
+Source code and pre-trained models can be found following the instructions in [our repository][NF_link]
 
 <style type="text/css">
   .tg {
