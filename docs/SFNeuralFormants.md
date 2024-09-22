@@ -128,19 +128,17 @@ Source code and pre-trained models can be found following the instructions in [o
 
 ## Synthesised speech
 
-Currently adding sound samples.
-
-<!--
-We first present some samples generated as copy synthesis with the proposed method compared to [previous iterations of the model][NF_paper] (using only feature-mapping to mel-spectrogram and synthesis with a pre-trained HiFi-GAN) and Praat.
+We first present some samples generated as copy synthesis with the proposed HiFi-Glot model compared to [previous iterations of the model][NF_paper] (NFS), an end-to-end implementation of this model (NFS-E3E) and Praat.
 
 <table class="tg">
   <thead>
     <tr>
       <th class="tg-0pky">System</th>
       <th class="tg-0pky" colspan="1">Reference</th>
-      <th class="tg-0pky" colspan="1">NF + HiFi-GAN</th>
+      <th class="tg-0pky" colspan="1">HiFi-GLot</th>
+      <th class="tg-0pky" colspan="1">NFS-E2E</th>
+      <th class="tg-0pky" colspan="1">NFS</th>
       <th class="tg-0pky" colspan="1">Praat</th>
-      <th class="tg-0pky" colspan="1">Proposed method</th>
     </tr>
   </thead>
   <tbody>
@@ -148,22 +146,27 @@ We first present some samples generated as copy synthesis with the proposed meth
       <td nowrap="" class="tg-0pky"><b>Sample 1</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+          <source src="./Samples/SFNeuralFormants/ltest/p259_426_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p259_426_mic1_23_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p259_426_mic1_25_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p260_004_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p259_426_mic1_26_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p259_426_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
     </tr>
@@ -173,22 +176,27 @@ We first present some samples generated as copy synthesis with the proposed meth
       <td nowrap="" class="tg-0pky"><b>Sample 2</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+          <source src="./Samples/SFNeuralFormants/ltest/p273_128_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p273_128_mic1_23_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p273_128_mic1_25_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p282_101_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p273_128_mic1_26_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p273_128_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
     </tr>
@@ -198,28 +206,34 @@ We first present some samples generated as copy synthesis with the proposed meth
       <td nowrap="" class="tg-0pky"><b>Sample 3</b></td>
       <td class="tg-0pky">
         <audio id="audio-small" controls="">
-          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+          <source src="./Samples/SFNeuralFormants/ltest/p303_157_mic1_orig_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_NFUniv_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p303_157_mic1_23_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p303_157_mic1_25_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
       <td class="tg-0pky">
-        <audio controls="">
-          <source src="./Samples/DDSPNeuralFormants/p285_250_mic1_wave_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p303_157_mic1_26_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
+        </audio>
+      </td>
+      <td class="tg-0pky">
+        <audio id="audio-small" controls="">
+          <source src="./Samples/SFNeuralFormants/ltest/p303_157_mic1_praat_1.0_1.0_1.0_1.0_1.0.wav" type="audio/wav" preload=none/>
         </audio>
       </td>
     </tr>
   </tbody>
 </table>
 
+<!--
 Manipulation samples are created by scaling a specific formant frequency (F1-F4) by a factor in the range 0.7 - 1.3.
 
 <table class="tg">
