@@ -26,7 +26,18 @@ permalink: /SFNeuralFormants
 
 [hifi_link]: https://github.com/jik876/hifi-gan
 [GN_link]: https://github.com/ljuvela/GlotNet
-[NF_paper]: https://arxiv.org/abs/2303.07442
+[HiFiGlot_paper]: https://arxiv.org/abs/2409.14823
+
+## Citation information
+
+```
+@article{juvela2024hifi,
+  title={HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters},
+  author={Juvela, Lauri and P{\'e}rez Zarazaga, Pablo and Henter, Gustav Eje and Malisz, Zofia},
+  journal={arXiv preprint arXiv:2409.14823},
+  year={2024}
+}
+```
 
 ## Summary
 
@@ -35,6 +46,8 @@ The goal of this work is to develop a speaker-independent speech synthesis syste
 The system is built with a similar structure to the source-filter model, allowing us to independently inspect and manipulate the spectral envelope and glottal excitation.
 
 The system provides a controllable environment where it is possible to manipulate the different individual speech parameters to generate a realistic speech signal.
+
+A pre-print from this article can be found [here][HiFiGlot_paper].
 
 ## Visual overview
 
