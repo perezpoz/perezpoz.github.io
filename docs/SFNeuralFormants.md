@@ -18,7 +18,7 @@ permalink: /SFNeuralFormants
 </head>
 
 [NF_link]: https://github.com/ljuvela/SourceFilterNeuralFormants
-[paper_link]: http://arxiv.org/abs/2306.01957
+[NFS_paper_link]: https://www.isca-archive.org/interspeech_2023/perezzarazaga23_interspeech.html
 [gustav_profile]: https://people.kth.se/~ghe/
 [pablo_profile]: https://orcid.org/0000-0002-6166-9061
 [zofia_profile]: https://www.kth.se/profile/malisz
@@ -28,16 +28,7 @@ permalink: /SFNeuralFormants
 [GN_link]: https://github.com/ljuvela/GlotNet
 [HiFiGlot_paper]: https://arxiv.org/abs/2409.14823
 
-## Citation information
 
-```
-@article{juvela2024hifi,
-  title={HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters},
-  author={Juvela, Lauri and P{\'e}rez Zarazaga, Pablo and Henter, Gustav Eje and Malisz, Zofia},
-  journal={arXiv preprint arXiv:2409.14823},
-  year={2024}
-}
-```
 
 ## Summary
 
@@ -57,91 +48,12 @@ A pre-print from this article can be found [here][HiFiGlot_paper].
 
 Source code and pre-trained models can be found following the instructions in [our repository][NF_link]
 
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-color: #9ABAD9;
-    border-spacing: 0;
-  }
+<link href="style.css" rel="stylesheet"></link>
 
-  .tg td {
-    background-color: #EBF5FF;
-    border-color: #9ABAD9;
-    border-style: solid;
-    border-width: 1px;
-    color: #444;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 0px 20px;
-    word-break: normal;
-    font-weight: bold;
-    vertical-align: middle;
-  }
-
-  .tg th {
-    background-color: #409cff;
-    border-color: #9ABAD9;
-    border-style: solid;
-    border-width: 1px;
-    color: #fff;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 0px 20px;
-    word-break: normal;
-    font-weight: bold;
-    vertical-align: middle;
-
-  }
-
-  .tg .tg-0pky {
-    border-color: inherit;
-    text-align: center;
-    vertical-align: top,
-  }
-
-  .tg .tg-fymr {
-    border-color: inherit;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: top
-  }
-  .slider {
-  -webkit-appearance: none;
-  width: 75%;
-  height: 15px;
-  border-radius: 5px;  
-  background: #d3d3d3;
-  outline: none;
-  opacity: 0.7;
-  -webkit-transition: .2s;
-  transition: opacity .2s;
-}
-
-.slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%; 
-  background: #409cff;
-  cursor: pointer;
-}
-
-.slider::-moz-range-thumb {
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  background: #409cff;
-  cursor: pointer;
-}
-</style>
 
 ## Synthesised speech
 
-We first present some samples generated as copy synthesis with the proposed HiFi-Glot model compared to [previous iterations of the model][NF_paper] (NFS), an end-to-end implementation of this model (NFS-E3E) and Praat.
+We first present some samples generated as copy synthesis with the proposed HiFi-Glot model compared to our previous work on [neural formant synthesis][NFS_paper_link] (NFS), an end-to-end implementation of this model (NFS-E2E) and Praat.
 
 <table class="tg">
   <thead>
@@ -924,3 +836,15 @@ Manipulation samples are created by scaling a specific formant frequency (F1-F4)
     </tr>
   </tbody>
 </table>
+
+
+## Citation information
+
+```
+@article{juvela2024hifi,
+  title={HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters},
+  author={Juvela, Lauri and P{\'e}rez Zarazaga, Pablo and Henter, Gustav Eje and Malisz, Zofia},
+  journal={arXiv preprint arXiv:2409.14823},
+  year={2024}
+}
+```
